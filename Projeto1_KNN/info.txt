@@ -1,0 +1,2 @@
+Primeiro projeto em Python
+Implementação de KNN para classificação de investidores com base na carteira de investimentos
