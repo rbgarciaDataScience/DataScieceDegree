@@ -1,0 +1,6 @@
+Let's Code
+Data Science Degree
+Módulo 1: Lógica de Programação (programação em Python)
+Professora: Renata Martins Marcese (Cientista  de dados - Empiricus)
+
+Esta pasta contém os exercícios do módulo 1
