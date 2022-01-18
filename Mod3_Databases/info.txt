@@ -1,0 +1,6 @@
+Let's Code
+Data Science Degree
+Módulo 3: Databases (PostgreSQL, AWS)
+Professor: Sandro Saorin (Cientista de dados)
+
+Esta pasta contém os exercícios do módulo 3.
