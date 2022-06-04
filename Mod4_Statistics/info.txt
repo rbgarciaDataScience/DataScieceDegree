@@ -1,0 +1,7 @@
+Let's Code
+Data Science Degree
+Módulo 4: Estatística com Python (Bibliotecas Python para Data Science )
+Professor: Rafael Moreira (Analista de sistemas - Fiserv)
+
+Bibliotecas estudadas: NumPy, SciPy, scikit-learn
+Esta pasta contém os exercícios do módulo 4.
