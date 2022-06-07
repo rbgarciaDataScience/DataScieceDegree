@@ -1,0 +1,15 @@
+Let's Code
+Data Science Degree
+Módulo 5: Machine Learning (Scikit-learn)
+Professor: Helder Vieira (Cientista de dados - Itaú)
+
+Modelos estudados: DecisionTree, RandomForest, KNeighbors,
+                  AdaBoost, LGBM, Naive Bayes
+
+Redes: CNN, MLP, RNN
+
+Processamento de Linguagem Natural: Bag of Words, Word to Vec, TF-IDF
+
+Bibliotecas estudadas: scikit-learn, lightGBM, tensorflow e keras, gensim, wordcloud
+
+Esta pasta contém os exercícios do módulo 5.
