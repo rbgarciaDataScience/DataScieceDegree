@@ -1,0 +1,4 @@
+Projetos didáticos do Módulo 2
+
+Projeto 1: Uso do Pandas
+Projeto 2: Uso de Pandas, Matplotlib e Seaborn
